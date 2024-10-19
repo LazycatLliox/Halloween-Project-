@@ -1,5 +1,5 @@
 body{
-    background-image: linear-gradient(#1C0125, #1C0125aa );
+    background-image: linear-gradient(#1C0125, #1C0125ac );
     height: 100vh;
 }
 
@@ -9,7 +9,4 @@ body{
     margin: 0;
     border: 0;
     padding: 0;
-}
-.main-nav {
-    display: 
 }
