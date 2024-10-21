@@ -20,6 +20,7 @@ a {
 .logo{
     margin: 0;
     font-size: 1.45em;
+    color:#fff;
 }
 .main-nav{
     margin-top: 5px;
@@ -30,4 +31,19 @@ a {
     text-transform: uppercase;
     text-align: center;
     display: block;
+}
+.main-nav a{
+    color:#96E194;
+    font-size: .99em;
+}
+.main-nav a:hover{
+    color: #FF9505;
+}
+.header {
+    padding-top: .5em;
+    padding-bottom: .5em;
+    border: 1px solid #FF9505;
+    background-color: #FF950599;
+    box-shadow: 0px 14px 0px 0px rpg(0,0,0,0.75);
+    border-radius: 5px;
 }
