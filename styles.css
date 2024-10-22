@@ -54,5 +54,16 @@ img{
 }
 /*------- Tablet Media Query -------*/
 @media screen and (min-width: 769px) {
-    
+    .header,
+    .main-nav {
+        display: flex;
+    }
+
+    .header{
+        flex-direction: column;
+        align-items: center;
+    }
+
+
 }
+/*------ End of Tablet Media Query ------*/
