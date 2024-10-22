@@ -47,3 +47,12 @@ a {
     box-shadow: 0px 14px 0px 0px rpg(0,0,0,0.75);
     border-radius: 5px;
 }
+/*------- Responsive Images -------*/
+img{
+    width: 100%;
+
+}
+/*------- Tablet Media Query -------*/
+@media screen and (min-width: 769px) {
+    
+}
