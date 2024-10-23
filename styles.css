@@ -1,6 +1,19 @@
+/* fonts***********
+font-family: "Creepster", system-ui;
+font-family: "Nosifer", sans-serif;
+font-family: "Rubik Wet Paint", system-ui;
+font-family: "Amatic SC", sans-serif;
+font-family: "Barrio", system-ui;
+
+******* End Fonts***/
+
+
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Barrio&family=Creepster&family=Nosifer&family=Rubik+Wet+Paint&display=swap');
+
 body{
     background-image: linear-gradient(#1C0125, #1C0125aa );
     height: 100vh;
+    font-family: "Amatic SC", sans-serif;
 }
 
 *{
@@ -20,7 +33,8 @@ a {
 .logo{
     margin: 0;
     font-size: 1.45em;
-    color:#fff;
+    color:#AF0032;
+    font-family: "Rubik Wet Paint", system-ui;
 }
 .main-nav{
     margin-top: 5px;
@@ -31,6 +45,7 @@ a {
     text-transform: uppercase;
     text-align: center;
     display: block;
+    font-family: "Barrio", system-ui;
 }
 .main-nav a{
     color:#96E194;
