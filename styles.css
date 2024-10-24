@@ -6,12 +6,18 @@ font-family: "Amatic SC", sans-serif;
 font-family: "Barrio", system-ui;
 
 ******* End Fonts***/
-
+/****** Color Palette****
+913F0B Brown
+5F8091 slate gray
+C37D23 bronze
+7A2F16 sienna
+C2350F rust
+******** End Color Palette **/
 
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Barrio&family=Creepster&family=Nosifer&family=Rubik+Wet+Paint&display=swap');
 
 body{
-    background-image: linear-gradient(#1C0125, #1C0125aa );
+    background-image: linear-gradient(#7A2F16,#C2350F );
     height: 100vh;
     font-family: "Amatic SC", sans-serif;
 }
@@ -54,6 +60,9 @@ a {
 .main-nav a:hover{
     color: #FF9505;
 }
+.logo a{
+    color:#AF0032
+}
 .header {
     padding-top: .5em;
     padding-bottom: .5em;
@@ -61,6 +70,13 @@ a {
     background-color: #FF950599;
     box-shadow: 0px 14px 0px 0px rpg(0,0,0,0.75);
     border-radius: 5px;
+}
+
+#hero{
+    background-image: url(images/2151827517.jpg)
+    background-repeat: no-repeat;
+    background-size: cover;
+    ba
 }
 /*------- Responsive Images -------*/
 img{
