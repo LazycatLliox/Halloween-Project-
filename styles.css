@@ -73,10 +73,11 @@ a {
 }
 
 #hero{
-    background-image: url(images/2151827517.jpg)
+    background-image: url(images/2151827517.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    ba
+    background-position-y: bottom;
+    min-height: 500px;
 }
 /*------- Responsive Images -------*/
 img{
