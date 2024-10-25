@@ -91,6 +91,48 @@ a {
     text-align: center;
     
 }
+.two{
+    padding: 10%;
+    font-size: 1.8em;
+}
+
+.two h2,
+.two p{
+    font-family: "Amatic SC", sans-serif;
+    margin-bottom: 1.2em;
+}
+.four{
+    padding: 10%;
+    font-size: 1.8em;
+}
+.four h2,
+.four p{
+    font-family: "Amatic SC", sans-serif;
+    margin-bottom: 1.2em;
+}.five{
+    padding: 10%;
+    font-size: 1.8em;
+}
+.five h2,
+.five p{
+    font-family: "Amatic SC", sans-serif;
+    margin-bottom: 1.2em;
+}
+
+.seven{
+    padding: 10%;
+    font-size: 1.8em;
+}
+.seven h2,
+.seven p{
+    font-family: "Amatic SC", sans-serif;
+    margin-bottom: 1.2em;
+}
+
+
+
+
+
 
 /*------- Responsive Images -------*/
 img{
@@ -117,7 +159,7 @@ img{
     background-image: url(/images/2151827499.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position-x: center;
+    background-position-x: left;
     background-position-y: bottom;
 }
 .four{
@@ -133,7 +175,7 @@ img{
     background-image: url(/images/2151827618.jpg);
     background-repeat: no-repeat;
     background-size: cover;
-    background-position-x: center;
+    background-position-x: left;
     background-position-y: bottom;
     
 }
