@@ -16,6 +16,7 @@ C2350F rust
 
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Barrio&family=Creepster&family=Nosifer&family=Rubik+Wet+Paint&display=swap');
 
+
 body{
     background-image: linear-gradient(#7A2F16,#C2350F );
     height: 100vh;
@@ -95,7 +96,17 @@ a {
     padding: 10%;
     font-size: 1.8em;
 }
-
+.two img{
+    width:25%;
+}
+.fltright{
+    float: right;
+    margin: 0 0 15px 20px;
+}
+.fltleft{
+    float: left;
+    margin: 20 0 15px 0;
+}
 .two h2,
 .two p{
     font-family: "Amatic SC", sans-serif;
@@ -105,6 +116,10 @@ a {
     padding: 10%;
     font-size: 1.8em;
 }
+.four img{
+    width: 25%;
+}
+
 .four h2,
 .four p{
     font-family: "Amatic SC", sans-serif;
@@ -112,6 +127,9 @@ a {
 }.five{
     padding: 10%;
     font-size: 1.8em;
+}
+.five img{
+    width: 25%;
 }
 .five h2,
 .five p{
