@@ -4,6 +4,7 @@ font-family: "Nosifer", sans-serif;
 font-family: "Rubik Wet Paint", system-ui;
 font-family: "Amatic SC", sans-serif;
 font-family: "Barrio", system-ui;
+font-family: "Imperial Script", cursive;
 
 ******* End Fonts***/
 /****** Color Palette****
@@ -15,10 +16,10 @@ C2350F rust
 ******** End Color Palette **/
 
 @import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@400;700&family=Barrio&family=Creepster&family=Nosifer&family=Rubik+Wet+Paint&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Imperial+Script&display=swap');
 
 
 body{
-    background-image: linear-gradient(#7A2F16,#C2350F );
     height: 100vh;
     font-family: "Amatic SC", sans-serif;
 }
@@ -29,7 +30,7 @@ body{
     margin: 0;
     border: 0;
     padding: 0;
-}
+
 ul {
     list-style: none;
 }
@@ -54,11 +55,11 @@ a {
     display: block;
 }
 .main-nav a{
-    color:#96E194;
+    color: #000;;
     font-size: .99em;
 }
 .main-nav a:hover{
-    color: #FF9505;
+    color: #fff;
 }
 .logo a{
     color:#AF0032
@@ -67,7 +68,7 @@ a {
     padding-top: .5em;
     padding-bottom: .5em;
     border: 1px solid #FF9505;
-    background-color: #FF950599;
+    background-color:#FF8000 ;
     box-shadow: 0px 14px 0px 0px rpg(0,0,0,0.75);
     border-radius: 5px;
 }
@@ -146,8 +147,13 @@ a {
     font-family: "Amatic SC", sans-serif;
     margin-bottom: 1.2em;
 }
-
-
+.raven{
+    padding: 10%;
+    font-size: 25px;
+    background-color: #261460;
+    color: #fff;
+    font-family: "Imperial Script", cursive;
+}
 
 
 
