@@ -162,7 +162,16 @@ a {
     color: #fff;
     font-family: "Jolly Lodger", system-ui;
 }
-
+.new{
+    padding: 10%;
+    font-size: 25px;
+    background-color: #261460;
+    color: #fff;
+    font-family: "Jolly Lodger", system-ui;
+}
+.candy-img{
+    width: 10%;
+}
 
 
 /*------- Responsive Images -------*/
