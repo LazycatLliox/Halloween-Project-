@@ -171,6 +171,11 @@ a {
 }
 .candy-img{
     width: 10%;
+    float: left;
+}
+.candy-img2{
+    width: 10%;
+    float: right;
 }
 
 
